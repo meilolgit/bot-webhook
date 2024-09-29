@@ -5,7 +5,7 @@ WEBHOOK_URL = 'https://discord.com/api/webhooks/1289891223359983637/zopepLwFhY7S
 
 def send_image():
     # ここで画像を生成するロジックを追加
-    IMAGE_URL = 'https://myedit.online/jp/photo-editor/ai-image-generator/edit'  # 生成した画像のURL
+    IMAGE_URL = 'https://app-content.cyberlink.com/content/AppCMS/2024/05/10/AppCMS/Uploader/13c80fb5-9aa2-444d-9d52-776cecc8cf9f.jpg?product=MyEdit&version=All&versiontype=All&platform=Web&type=TTI_Styles&ext=/13c80fb5-9aa2-444d-9d52-776cecc8cf9f.jpg'  # 生成した画像のURL
 
     data = {
         'content': 'こちらが生成した画像です！',
